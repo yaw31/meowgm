@@ -267,7 +267,7 @@ export default function Home() {
               </p>
               <div className="bg-[#0a0f24] rounded-lg p-4 border border-[#a259ff]/10">
                 <p className="text-[#a0a0a0] text-sm italic">
-                  "When the jungler ganks but you're already 0/5"
+                  &quot;When the jungler ganks but you&apos;re already 0/5&quot;
                 </p>
               </div>
             </div>
@@ -282,7 +282,7 @@ export default function Home() {
               </p>
               <div className="bg-[#0a0f24] rounded-lg p-4 border border-[#a259ff]/10">
                 <p className="text-[#a0a0a0] text-sm italic">
-                  Submit your artwork to be featured here!
+                  &quot;Submit your artwork to be featured here!&quot;
                 </p>
               </div>
             </div>
@@ -368,7 +368,7 @@ export default function Home() {
                   </div>
                   
                   <p className="text-sm text-[#a0a0a0] font-mono italic">
-                    "{member.quote}"
+                    &quot;{member.quote}&quot;
                   </p>
                 </div>
 
